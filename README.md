@@ -7,3 +7,5 @@ The output is given in the screenshots
 The serial node is initialised by 
 
 $rosrun rosserial_python serialnode.py /dev/ttyAMC0
+
+ADDED CODE FOR TAKING ENCODER DATA FROM SINGLE DC HALL ENCODER MOTOR
